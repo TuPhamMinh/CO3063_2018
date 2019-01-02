@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Đồ Án Kỹ Thuật Máy Tính</string>
+
+    <string name="action_ok">OK</string>
+
+    <string name="message">LED ON</string>
+    <string name="send">Gửi</string>
+    <string name="message_hint">LED ON</string>
+    <string name="phone_number_hint">0912345678</string>
+    <string name="toast_sending_sms">Sending sms…</string>
+
+    <string name="delay_hint">0000</string>
+    <string name="percent">0</string>
+    <string name="percent_hint">100</string>
+    <string name="delay">1000</string>
+    <string name="ms">ms</string>
+    <string name="pe">%</string>
+    <string name="setting">Gửi thử tin nhắn:</string>
+
+    <string name="option1">Trường hợp 1:</string>
+    <string name="option2">Trường hợp 2:</string>
+    <string name="option3">Trường hợp 3:</string>
+
+    <string name="permission_alert_dialog_title">Requesting SMS permission</string>
+    <string name="permission_dialog_message">The app will now request your permission to send and read SMS related services.</string>
+
+    <string name="error_invalid_phone_number">Invalid phone number</string>
+</resources>
